@@ -7,6 +7,7 @@ import java.util.*;
  * Qualification Round 2021 - Code Jam 2021 problem 2
  * https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
  * 
+ * solved
  */
 
 public class MoonsAndUmbrellas {

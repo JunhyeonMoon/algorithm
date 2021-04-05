@@ -7,6 +7,7 @@ import java.io.*;
  * Round A - Kick Start 2021 problem 3
  * https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cb14
  * 
+ * solved
  */
 
 public class RabbitHouse {

@@ -7,6 +7,7 @@ import java.util.*;
  * Round A - Kick Start 2021 problem 1
  * https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3
  * 
+ * solved
  */
 
 public class KGoodnessString {
